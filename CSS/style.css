@@ -1,0 +1,35 @@
+body{
+    
+    margin: 0;
+    padding: 0;
+    /* background-color :brown;
+    background-image: url('aryan.jpg') ; 
+    background-repeat: repeat; 
+   /* background-position: top left 500px; */
+    /* background-size :auto; */ 
+    
+}
+html,*{
+    margin:0 ;
+    padding: 0;
+    box-sizing: border-box;
+}
+p{
+    font-family: arial;
+    font-size: 50px;
+    font-weight: 700;
+    font-size: italic;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 3px 0px 4px brown;
+}
+#para{
+    color: cadetblue;
+}
+img{
+    float: left;
+    border: solid;
+    border-radius: 50%;
+    border-width: 7px;
+}
